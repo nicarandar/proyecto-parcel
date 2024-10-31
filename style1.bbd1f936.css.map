@@ -1,0 +1,1 @@
+{"version":3,"sources":["style1.css"],"names":[],"mappings":"AAAA,GACI,aAAqB,CACrB,cACJ","file":"style1.bbd1f936.css","sourceRoot":"..\\src","sourcesContent":["h1{\r\n    color: rgb(18, 8, 75);\r\n    font-size: 50px;\r\n}"]}
